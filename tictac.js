@@ -4,7 +4,7 @@ let resetBtn =  document.querySelector(".reset-btn");
 let newGameBtn = document.querySelector(".new-btn");
 let msgcontainer = document.querySelector(".msg-conatiner");
 let msg = document.querySelector("#msg");
-// let msg1container = document.querySelector(".msg1-conatiner");
+
 
 
 
@@ -85,9 +85,7 @@ const resetGame = () => {
     
                 }
 
-                    // if(!notwinner && count===9){
-                    //     showDraw();
-                    // }
+                   
 
     };
 
